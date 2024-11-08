@@ -1,5 +1,3 @@
-# Run code step-by-step:
-
 # Project Setup Instructions
 
 Follow these steps to set up your environment and install all necessary dependencies:
