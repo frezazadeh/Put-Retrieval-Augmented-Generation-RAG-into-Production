@@ -77,5 +77,9 @@ Follow these steps to set up your environment and install all necessary dependen
     pipenv install streamlit
     ```
 
+16. **Install `streamlit` for building web applications**:
+    ```bash
+    streamlit run main.py
+    ```
 Now you are all set up! 🎉
 
